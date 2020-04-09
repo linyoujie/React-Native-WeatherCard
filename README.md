@@ -6,7 +6,7 @@ In order to used the weather service, you need to obtain an API key from https:/
 
 Configuring the config.js file by replacing <API_KEY> with API key.
 
-Theww Easy setup with Expo:
+<h2>Three Easy setup with Expo:</h2>
 
     git
 
@@ -14,8 +14,9 @@ Theww Easy setup with Expo:
 
     expo start
 
-Clean and neat coded, an success excute should have the following view:
-
+ coded, an success excute should have the following view:
+ 
+<h2>Clean and neat</h2>
 <img src= "assets/756320f5400023392eda9339648df6c.png" width = "300">
 
-Now you can go ahead and customized the icon youself, and Happy coding.
+Now go ahead and customized the icon youself, and Happy coding.
