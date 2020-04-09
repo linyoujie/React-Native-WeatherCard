@@ -1,4 +1,4 @@
-# WeatherCard_RN
+# React Native WeatherCard
 <h2>Today and Future 3-days weather forcast:</h2>
 <p>React Native implement OpenWeatherAPI and React Native Weather Icons.</p>
 
