@@ -1,6 +1,6 @@
-# WeatherCard
-<h2> Today and Future 3-days weather forcast:</h2>
-<p>Implement OpenWeatherAPI and React Native Weather Icons.</p>
+# WeatherCard_RN
+<h2>Today and Future 3-days weather forcast:</h2>
+<p>React Native implement OpenWeatherAPI and React Native Weather Icons.</p>
 
 In order to used the weather service, you need to obtain an API key from https://api.openweathermap.org
 
