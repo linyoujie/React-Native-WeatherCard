@@ -16,7 +16,7 @@ Configuring the config.js file by replacing <API_KEY> with API key.
 
  coded, an success excute should have the following view:
  
-<h2>Clean and neat</h2>
+<h2>Clean and Neat</h2>
 <img src= "assets/756320f5400023392eda9339648df6c.png" width = "300">
 
 Now go ahead and customized the icon youself, and Happy coding.
